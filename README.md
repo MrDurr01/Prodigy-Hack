@@ -2,7 +2,7 @@
 One of the best Prodigy hacks.
 
 
-Discord Support Server: https://discord.gg/abqMVbDanB
+# Discord Support Server: https://discord.gg/abqMVbDanB
 
 Made by rxzyx (rzx). This is purley for education purposes.
 
